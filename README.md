@@ -5,7 +5,7 @@
 
 Emanuela Blanco<sup>1^\*</sup>, Pasquale Luca Curci<sup>1^\*</sup>, Andrea Manconi<sup>2</sup>, Adele Sarli<sup>1</sup>, Diana Lucia Zuluaga<sup>1</sup>, Gabriella Sonnante<sup>1*</sup>
 
-<sup>a</sup> Institute of Biosciences and Bioresources, CNR, Via Amendola 165/A, 70126 Bari; b Institute of Biomedical Technologies, CNR, Via Fratelli Cervi, 93, 20054 Segrate (MI)  
+<sup>a</sup> Institute of Biosciences and Bioresources, CNR, Via Amendola 165/A, 70126 Bari; <sup>b</sup> Institute of Biomedical Technologies, CNR, Via Fratelli Cervi, 93, 20054 Segrate (MI)  
 
 <sup>^</sup>These authors contributed equally to this work  
 <sup>\*</sup> Correspondence: 
